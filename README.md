@@ -1,5 +1,10 @@
 # 💫 About Me:
-🎓 Graduate Student | Data Analyst | ML & Big Data Enthusiast<br/><br>Hi, I’m Sasank Chithirala, a Data Analytics Engineering graduate student at George Mason University with hands-on experience in Python, SQL, machine learning, and big data technologies. My projects tackle real-world challenges across telecom, climate, retail, and healthcare domains using tools like PySpark, MongoDB, Databricks, and AWS. I enjoy building scalable data pipelines, performing deep analysis, and delivering actionable insights through visualizations and predictive models.<br>
+M.S. in **Data Analytics Engineering** @ George Mason University (2023–2025), with a B.Tech in Electronics & Computer Engineering from Vellore Institute of Technology. I bridge the gap between raw data and real-world decisions by building scalable pipelines, predictive models, and interactive dashboards across telecom, healthcare, retail, and climate domains.
+
+Currently working as a **Data Analyst at Innova Solutions**, designing AI Agentic frameworks and data contracts for Telecom applications. Previously interned at **HG Insights** building LLM-powered automation pipelines on AWS, and served as a **Student Teachers and Research Assistant** at George Mason University applying clustering techniques to academic performance data.
+
+When I'm not wrangling data, I'm exploring the intersection of **LLMs and structured data systems**, from engineering custom MCP servers that connect SQLite databases to language models, to building AI agents with LangGraph and AWS Bedrock that automate complex business workflows. I'm particularly drawn to how modern AI tools can make data more queryable, explainable, and actionable for real-world applications.
+
 
 
 ## 🌐 Socials:
